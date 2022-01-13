@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tyccr\\Documents\\User Input\\User Input.csproj",
+      "projectUniqueName": "C:\\Users\\tyccr\\Documents\\User Input\\Get-User-Name\\User Input.csproj",
       "projectName": "User Input",
-      "projectPath": "C:\\Users\\tyccr\\Documents\\User Input\\User Input.csproj",
+      "projectPath": "C:\\Users\\tyccr\\Documents\\User Input\\Get-User-Name\\User Input.csproj",
       "packagesPath": "C:\\Users\\tyccr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tyccr\\Documents\\User Input\\obj\\",
+      "outputPath": "C:\\Users\\tyccr\\Documents\\User Input\\Get-User-Name\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tyccr\\AppData\\Roaming\\NuGet\\NuGet.Config"
